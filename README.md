@@ -39,7 +39,7 @@ We use three processed datasets: MovieLens-2-types, Tenrec-2 and Tenrec-4.
 
 |          | \#user | \#item | \#inter. |
 |:--------:|:------:|:------:|:--------:|
-|   ML-2   |  3798  |  503   |  45526   |
+|  Movielens  |  3798  |  503   |  45526   |
 | Tenrec-2 |  8170  |  1180  |  57272   |
 | Tenrec-4 |  9002  |  1624  |  79926   |
 
